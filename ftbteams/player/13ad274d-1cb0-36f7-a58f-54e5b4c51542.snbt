@@ -1,0 +1,19 @@
+{
+	id: "13ad274d-1cb0-36f7-a58f-54e5b4c51542"
+	type: "player"
+	player_name: "ToxicSGTBigmac"
+	ranks: {
+		13ad274d-1cb0-36f7-a58f-54e5b4c51542: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ToxicSGTBigmac"
+		"ftbteams:color": "#6959FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

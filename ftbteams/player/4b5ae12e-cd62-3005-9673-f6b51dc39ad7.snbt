@@ -1,0 +1,19 @@
+{
+	id: "4b5ae12e-cd62-3005-9673-f6b51dc39ad7"
+	type: "player"
+	player_name: "Bubbet41"
+	ranks: {
+		4b5ae12e-cd62-3005-9673-f6b51dc39ad7: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Bubbet41"
+		"ftbteams:color": "#FF5969"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

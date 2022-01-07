@@ -1,0 +1,24 @@
+{
+	id: "c4e1043b-cb15-4f8b-9495-bfa4a5ead29e"
+	type: "party"
+	owner: "90812373-ad80-4385-9ae4-1203968548f2"
+	ranks: {
+		90812373-ad80-4385-9ae4-1203968548f2: "owner"
+		ad59aecc-78d6-4957-b2e2-95abb9d2e772: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Bubbet41's Party"
+		"ftbteams:color": "#DEFF59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1641370956495L, text: "{\"color\":\"yellow\",\"extra\":[{\"text\":\"Bubbet41\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+		{ from: "90812373-ad80-4385-9ae4-1203968548f2", date: 1641370956543L, text: "{\"color\":\"green\",\"text\":\"Invited ToxicSGTBigmac\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1641370960353L, text: "{\"color\":\"green\",\"extra\":[{\"text\":\"ToxicSGTBigmac\"},{\"text\":\" joined your party!\"}],\"text\":\"\"}" }
+	]
+	extra: { }
+}
