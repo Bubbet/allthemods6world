@@ -5,21 +5,9 @@
     },
     "done": true
   },
-  "create:its_alive": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "0": "2022-01-06 21:00:18 -0600"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2022-01-06 18:34:41 -0600"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/citizen_eat_food_first": {
-    "criteria": {
-      "citizen_eat_anything": "2022-01-06 20:08:47 -0600"
+      "coded_trigger": "2022-01-08 03:02:23 -0600"
     },
     "done": true
   },
@@ -29,23 +17,11 @@
     },
     "done": true
   },
-  "lootr:root": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "always_true": "2022-01-06 18:34:41 -0600"
+      "crying_obsidian": "2022-01-08 04:36:28 -0600"
     },
     "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:zombie": "2022-01-06 19:48:43 -0600"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:rabbit": "2022-01-06 23:05:27 -0600"
-    },
-    "done": false
   },
   "naturescompass:natures_compass": {
     "criteria": {
@@ -95,6 +71,277 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-01-08 04:10:31 -0600"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pneumatic_wrench_charged": {
+    "criteria": {
+      "equipped": "2022-01-06 19:51:10 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_5": "2022-01-08 03:30:48 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_citizen": {
+    "criteria": {
+      "citizens_hut": "2022-01-06 22:02:36 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:world/tinkers_gadgetry": {
+    "criteria": {
+      "crafted_book": "2022-01-08 04:12:13 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2022-01-06 18:38:39 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2022-01-08 04:33:03 -0600"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/energy_trash_can": {
+    "criteria": {
+      "redstone": "2022-01-06 18:38:39 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/root": {
+    "criteria": {
+      "builders_hut": "2022-01-06 19:00:10 -0600"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2022-01-06 19:34:35 -0600"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2022-01-07 01:16:37 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/cast_collector": {
+    "criteria": {
+      "ingot": "2022-01-08 04:17:25 -0600"
+    },
+    "done": false
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2022-01-07 00:10:03 -0600"
+    },
+    "done": false
+  },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "steel": "2022-01-06 20:17:33 -0600"
+    },
+    "done": true
+  },
+  "create:overstressed": {
+    "criteria": {
+      "0": "2022-01-08 03:23:53 -0600"
+    },
+    "done": true
+  },
+  "silentgear:nether_plants": {
+    "criteria": {
+      "banana": "2022-01-08 04:41:25 -0600",
+      "sapling": "2022-01-08 04:35:29 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2022-01-08 00:17:09 -0600",
+      "baked_potato": "2022-01-06 18:43:26 -0600",
+      "rabbit": "2022-01-06 23:12:08 -0600",
+      "apple": "2022-01-07 00:30:52 -0600",
+      "bread": "2022-01-06 19:38:42 -0600",
+      "carrot": "2022-01-07 01:02:33 -0600"
+    },
+    "done": false
+  },
+  "integrateddynamics:meneglin_basics/squeezing": {
+    "criteria": {
+      "criteria_0": "2022-01-08 00:43:07 -0600"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2022-01-08 03:09:13 -0600"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2022-01-06 18:40:32 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/gold_casting": {
+    "criteria": {
+      "crafted_cast": "2022-01-08 04:17:25 -0600"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-06 18:53:57 -0600"
+    },
+    "done": true
+  },
+  "create:press": {
+    "criteria": {
+      "0": "2022-01-06 21:00:33 -0600"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2022-01-06 20:20:04 -0600"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2022-01-06 19:12:55 -0600"
+    },
+    "done": false
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-01-06 22:45:32 -0600"
+    },
+    "done": true
+  },
+  "integrateddynamics:root": {
+    "criteria": {
+      "criteria_0": "2022-01-08 00:43:07 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/puny_smelting": {
+    "criteria": {
+      "crafted_book": "2022-01-08 04:12:13 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-01-06 22:06:21 -0600"
+    },
+    "done": true
+  },
+  "woot:main/root": {
+    "criteria": {
+      "killed_something": "2022-01-06 19:48:41 -0600"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2022-01-06 22:45:32 -0600"
+    },
+    "done": true
+  },
+  "create:its_alive": {
+    "criteria": {
+      "0": "2022-01-06 21:00:18 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_eat_food_first": {
+    "criteria": {
+      "citizen_eat_anything": "2022-01-06 20:08:47 -0600"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2022-01-08 04:45:52 -0600"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2022-01-06 18:34:41 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2022-01-06 19:48:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2022-01-08 02:45:47 -0600",
+      "minecraft:rabbit": "2022-01-06 23:05:27 -0600"
+    },
+    "done": false
+  },
+  "create:speedometer": {
+    "criteria": {
+      "0": "2022-01-08 03:22:31 -0600"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2022-01-08 04:07:45 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2022-01-06 18:38:39 -0600"
@@ -131,18 +378,6 @@
   "immersiveengineering:main/root": {
     "criteria": {
       "manual": "2022-01-06 20:02:42 -0600"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pneumatic_wrench_charged": {
-    "criteria": {
-      "equipped": "2022-01-06 19:51:10 -0600"
-    },
-    "done": true
-  },
-  "minecolonies:minecolonies/build_citizen": {
-    "criteria": {
-      "citizens_hut": "2022-01-06 22:02:36 -0600"
     },
     "done": true
   },
@@ -183,15 +418,27 @@
     },
     "done": false
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2022-01-08 04:16:50 -0600"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_air_shard": {
+    "criteria": {
+      "has_powerful_air_shard": "2022-01-08 04:43:25 -0600"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/search/basic_magnet": {
     "criteria": {
       "iron": "2022-01-06 18:38:39 -0600"
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "minecolonies:production/build_cook": {
     "criteria": {
-      "tick": "2022-01-06 18:34:41 -0600"
+      "sawmill": "2022-01-08 02:34:04 -0600"
     },
     "done": true
   },
@@ -204,12 +451,6 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2022-01-06 18:43:26 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_leggings": "2022-01-06 18:38:39 -0600"
     },
     "done": true
   },
@@ -243,27 +484,41 @@
     },
     "done": true
   },
-  "trashcans:recipes/search/energy_trash_can": {
+  "repurposed_structures:ruins": {
     "criteria": {
-      "redstone": "2022-01-06 18:38:39 -0600"
+      "in_ruins_land_warm": "2022-01-08 02:20:14 -0600"
+    },
+    "done": false
+  },
+  "tconstruct:world/slime_collector": {
+    "criteria": {
+      "magma_cream": "2022-01-08 04:46:48 -0600",
+      "ichor": "2022-01-08 04:48:12 -0600",
+      "blood": "2022-01-08 04:48:14 -0600"
+    },
+    "done": false
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2022-01-08 04:32:58 -0600"
     },
     "done": true
   },
-  "apotheosis:spawner/root": {
+  "silentgear:nether": {
     "criteria": {
-      "game_start": "2022-01-06 18:34:41 -0600"
-    },
-    "done": true
-  },
-  "minecolonies:production/root": {
-    "criteria": {
-      "builders_hut": "2022-01-06 19:00:10 -0600"
+      "entered_nether": "2022-01-08 04:10:31 -0600"
     },
     "done": true
   },
   "mana-and-artifice:mine_vinteum": {
     "criteria": {
       "get_vinteum": "2022-01-06 21:30:05 -0600"
+    },
+    "done": true
+  },
+  "integrateddynamics:meneglin_basics/menril_production": {
+    "criteria": {
+      "criteria_0": "2022-01-08 00:45:26 -0600"
     },
     "done": true
   },
@@ -291,15 +546,27 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "opened_chest": "2022-01-06 19:34:35 -0600"
+      "bastion": "2022-01-08 04:32:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-01-08 03:01:55 -0600"
     },
     "done": true
   },
   "appliedenergistics2:main/root": {
     "criteria": {
       "certus": "2022-01-06 20:37:26 -0600"
+    },
+    "done": true
+  },
+  "pneumaticcraft:oil_bucket": {
+    "criteria": {
+      "oil_bucket": "2022-01-07 23:51:10 -0600"
     },
     "done": true
   },
@@ -328,12 +595,6 @@
     },
     "done": true
   },
-  "trashcans:recipes/search/item_trash_can": {
-    "criteria": {
-      "chest": "2022-01-07 01:16:37 -0600"
-    },
-    "done": true
-  },
   "immersiveengineering:main/place_conveyor": {
     "criteria": {
       "basic": "2022-01-06 21:08:21 -0600"
@@ -343,12 +604,6 @@
   "minecolonies:minecolonies/build_builder_2": {
     "criteria": {
       "builders_hut": "2022-01-07 01:57:02 -0600"
-    },
-    "done": true
-  },
-  "tombstone:adventure/root": {
-    "criteria": {
-      "auto": "2022-01-06 18:34:41 -0600"
     },
     "done": true
   },
@@ -368,7 +623,12 @@
     "criteria": {
       "minecraft:pillager": "2022-01-06 23:50:13 -0600",
       "minecraft:skeleton": "2022-01-06 20:32:42 -0600",
+      "minecraft:magma_cube": "2022-01-08 04:46:47 -0600",
       "minecraft:spider": "2022-01-06 20:34:03 -0600",
+      "minecraft:piglin_brute": "2022-01-08 04:32:48 -0600",
+      "minecraft:creeper": "2022-01-08 00:56:19 -0600",
+      "minecraft:piglin": "2022-01-08 04:34:50 -0600",
+      "minecraft:enderman": "2022-01-08 04:26:52 -0600",
       "minecraft:zombie": "2022-01-06 19:48:43 -0600"
     },
     "done": false
@@ -379,21 +639,21 @@
     },
     "done": true
   },
-  "immersiveengineering:main/craft_pump": {
+  "tconstruct:world/blood_island": {
     "criteria": {
-      "pump": "2022-01-06 21:02:20 -0600"
+      "found_island": "2022-01-08 04:46:45 -0600"
     },
     "done": true
   },
-  "tombstone:adventure/find_grave_dust": {
+  "minecraft:story/enter_the_nether": {
     "criteria": {
-      "from_undead": "2022-01-07 00:10:03 -0600"
+      "entered_nether": "2022-01-08 04:10:31 -0600"
     },
-    "done": false
+    "done": true
   },
-  "immersiveengineering:main/make_steel": {
+  "immersiveengineering:main/craft_pump": {
     "criteria": {
-      "steel": "2022-01-06 20:17:33 -0600"
+      "pump": "2022-01-06 21:02:20 -0600"
     },
     "done": true
   },
@@ -403,16 +663,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "baked_potato": "2022-01-06 18:43:26 -0600",
-      "rabbit": "2022-01-06 23:12:08 -0600",
-      "apple": "2022-01-07 00:30:52 -0600",
-      "bread": "2022-01-06 19:38:42 -0600",
-      "carrot": "2022-01-07 01:02:33 -0600"
-    },
-    "done": false
-  },
   "tconstruct:tools/material_master": {
     "criteria": {
       "slimewood": "2022-01-06 18:38:39 -0600",
@@ -420,17 +670,35 @@
     },
     "done": false
   },
+  "integrateddynamics:meneglin_basics/meneglin_discovery": {
+    "criteria": {
+      "criteria_0": "2022-01-08 00:43:30 -0600"
+    },
+    "done": true
+  },
   "minecolonies:minecolonies/check_out_guide": {
     "criteria": {
       "click_gui_button_close": "2022-01-06 18:54:36 -0600"
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "tconstruct:smeltery/melter": {
     "criteria": {
-      "cold_desert": "2022-01-06 18:40:32 -0600"
+      "seared_basin": "2022-01-08 01:12:12 -0600"
+    },
+    "done": false
+  },
+  "integrateddynamics:meneglin_basics/drying": {
+    "criteria": {
+      "criteria_0": "2022-01-08 00:44:32 -0600"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:warped_forest": "2022-01-08 04:10:36 -0600"
+    },
+    "done": false
   },
   "elementalcraft:pickup/earth_shard": {
     "criteria": {
@@ -441,18 +709,6 @@
   "create:root": {
     "criteria": {
       "0": "2022-01-06 18:34:41 -0600"
-    },
-    "done": true
-  },
-  "resourcefulbees:resourcefulbees/root": {
-    "criteria": {
-      "inventory_changed": "2022-01-06 18:34:41 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2022-01-06 18:53:57 -0600"
     },
     "done": true
   },
@@ -468,9 +724,9 @@
     },
     "done": true
   },
-  "create:press": {
+  "lootr:25loot": {
     "criteria": {
-      "0": "2022-01-06 21:00:33 -0600"
+      "loot_stat": "2022-01-08 04:35:19 -0600"
     },
     "done": true
   },
@@ -480,35 +736,17 @@
     },
     "done": true
   },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_sapling": "2022-01-06 20:20:04 -0600"
-    },
-    "done": true
-  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-01-06 18:53:05 -0600"
     },
     "done": true
   },
-  "silentgear:material_grader": {
-    "criteria": {
-      "get_catalyst": "2022-01-06 19:12:55 -0600"
-    },
-    "done": false
-  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "pickaxe": "2022-01-06 18:38:39 -0600"
     },
     "done": false
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2022-01-06 22:45:32 -0600"
-    },
-    "done": true
   },
   "minecolonies:production/build_delivery_person": {
     "criteria": {
@@ -552,12 +790,6 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2022-01-06 22:06:21 -0600"
-    },
-    "done": true
-  },
   "pneumaticcraft:pneumatic_wrench": {
     "criteria": {
       "pressure_tube": "2022-01-06 19:51:13 -0600"
@@ -570,21 +802,9 @@
     },
     "done": true
   },
-  "woot:main/root": {
-    "criteria": {
-      "killed_something": "2022-01-06 19:48:41 -0600"
-    },
-    "done": true
-  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2022-01-06 21:51:22 -0600"
-    },
-    "done": true
-  },
-  "silentgear:root": {
-    "criteria": {
-      "get_item": "2022-01-06 22:45:32 -0600"
     },
     "done": true
   },
