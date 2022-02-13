@@ -1,4 +1,10 @@
 {
+  "elementalcraft:pickup/air_shard": {
+    "criteria": {
+      "has_air_shard": "2022-01-12 22:29:54 -0600"
+    },
+    "done": true
+  },
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2022-01-06 18:50:24 -0600"
@@ -11,15 +17,19 @@
     },
     "done": false
   },
-  "minecolonies:minecolonies/building_add_recipe_torch": {
+  "repurposed_structures:pyramids": {
     "criteria": {
-      "add_recipe_torch": "2022-01-06 23:12:14 -0600"
+      "in_pyramid_icy": "2022-01-18 17:00:02 -0600",
+      "in_pyramid_ocean": "2022-01-19 18:56:13 -0600",
+      "in_pyramid_jungle": "2022-01-14 14:29:13 -0600",
+      "in_pyramid_badlands": "2022-01-18 13:02:27 -0600",
+      "in_pyramid_snowy": "2022-01-13 19:30:21 -0600"
     },
-    "done": true
+    "done": false
   },
-  "tombstone:adventure/ashes_and_bones": {
+  "naturescompass:natures_compass": {
     "criteria": {
-      "coded_trigger": "2022-01-08 23:12:23 -0600"
+      "has_compass": "2022-01-21 22:41:43 -0600"
     },
     "done": true
   },
@@ -35,15 +45,47 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/colony_population_10": {
+  "minecraft:nether/root": {
     "criteria": {
-      "population_5": "2022-01-08 03:49:33 -0600"
+      "entered_nether": "2022-01-10 16:22:21 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:progress_naga": {
+    "criteria": {
+      "kill_mob": "2022-01-12 22:10:42 -0600"
+    },
+    "done": false
+  },
+  "minecolonies:minecolonies/building_add_recipe_door": {
+    "criteria": {
+      "add_recipe_birch_door": "2022-01-15 14:22:43 -0600",
+      "add_recipe_dark_oak_door": "2022-01-19 18:01:48 -0600",
+      "add_recipe_spruce_door": "2022-01-16 19:34:06 -0600"
+    },
+    "done": false
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2022-01-14 14:44:21 -0600"
     },
     "done": true
   },
   "minecolonies:minecolonies/build_citizen": {
     "criteria": {
       "citizens_hut": "2022-01-06 22:02:36 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2022-01-14 22:17:31 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_tavern": {
+    "criteria": {
+      "citizens_hut": "2022-01-10 17:22:32 -0600"
     },
     "done": true
   },
@@ -59,21 +101,27 @@
     },
     "done": true
   },
+  "repurposed_structures:witch_huts": {
+    "criteria": {
+      "in_witch_hut_oak": "2022-01-13 17:37:35 -0600"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2022-01-14 16:05:52 -0600"
+    },
+    "done": true
+  },
   "trashcans:recipes/search/energy_trash_can": {
     "criteria": {
       "redstone": "2022-01-08 00:09:57 -0600"
     },
     "done": true
   },
-  "apotheosis:spawner/root": {
+  "minecolonies:production/build_baker": {
     "criteria": {
-      "game_start": "2022-01-06 18:42:52 -0600"
-    },
-    "done": true
-  },
-  "botania:main/flower_pickup": {
-    "criteria": {
-      "flower": "2022-01-08 19:43:52 -0600"
+      "sawmill": "2022-01-11 22:02:42 -0600"
     },
     "done": true
   },
@@ -83,17 +131,54 @@
     },
     "done": true
   },
+  "explorerscompass:explorers_compass_cobweb": {
+    "criteria": {
+      "has_cobweb": "2022-01-22 19:04:30 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_crusher": {
+    "criteria": {
+      "smeltery": "2022-01-14 18:50:37 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2022-01-10 18:54:48 -0600"
+    },
+    "done": true
+  },
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2022-01-07 22:31:49 -0600"
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_dark_oak_planks": {
+  "lootr:1cart": {
     "criteria": {
-      "has_ingredient": "2022-01-09 00:49:24 -0600"
+      "opened_cart": "2022-01-12 20:59:16 -0600"
     },
     "done": true
+  },
+  "minecolonies:production/build_smeltery_3": {
+    "criteria": {
+      "smeltery": "2022-01-14 17:27:32 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_barracks_tower": {
+    "criteria": {
+      "guard_tower": "2022-01-13 02:42:06 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2022-01-18 17:06:34 -0600",
+      "in_better_spider_dungeon": "2022-01-14 15:23:17 -0600"
+    },
+    "done": false
   },
   "apotheosis:affix/root": {
     "criteria": {
@@ -101,15 +186,27 @@
     },
     "done": true
   },
-  "tombstone:adventure/root": {
+  "minecolonies:minecolonies/build_town_hall": {
     "criteria": {
-      "auto": "2022-01-06 18:42:52 -0600"
+      "town_hall": "2022-01-10 17:27:36 -0600"
     },
     "done": true
   },
-  "botania:main/root": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "flower": "2022-01-08 19:43:52 -0600"
+      "coded_trigger": "2022-01-11 03:46:35 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/chain_death": {
+    "criteria": {
+      "coded_trigger": "2022-01-11 22:57:41 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/large_hollow_hill": {
+    "criteria": {
+      "discover": "2022-01-12 22:08:16 -0600"
     },
     "done": true
   },
@@ -125,22 +222,35 @@
     },
     "done": false
   },
-  "refinedstorage:viewing_items": {
-    "criteria": {
-      "grid_in_inventory": "2022-01-09 03:44:00 -0600"
-    },
-    "done": true
-  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2022-01-07 23:15:06 -0600",
       "baked_potato": "2022-01-06 21:42:51 -0600",
       "cooked_chicken": "2022-01-07 23:27:03 -0600",
+      "cooked_mutton": "2022-01-13 17:17:57 -0600",
       "apple": "2022-01-06 18:56:33 -0600",
       "bread": "2022-01-08 00:11:13 -0600",
       "golden_apple": "2022-01-08 02:17:53 -0600"
     },
     "done": false
+  },
+  "twilightforest:alt/biomes/general_biomes": {
+    "criteria": {
+      "1": "2022-01-12 22:01:11 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_smeltery": {
+    "criteria": {
+      "smeltery": "2022-01-13 16:24:40 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "0": "2022-01-12 22:10:39 -0600"
+    },
+    "done": true
   },
   "tombstone:recipes/from_grave_key": {
     "criteria": {
@@ -148,21 +258,9 @@
     },
     "done": true
   },
-  "biomesoplenty:biomesoplenty/root": {
+  "minecolonies:minecolonies/colony_population_75": {
     "criteria": {
-      "cold_desert": "2022-01-06 18:46:07 -0600"
-    },
-    "done": true
-  },
-  "resourcefulbees:resourcefulbees/root": {
-    "criteria": {
-      "inventory_changed": "2022-01-06 18:42:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2022-01-07 23:59:45 -0600"
+      "population_5": "2022-01-22 19:12:00 -0600"
     },
     "done": true
   },
@@ -178,6 +276,12 @@
     },
     "done": true
   },
+  "upgrade_aquatic:adventure/tooth_fairy": {
+    "criteria": {
+      "thrasher_tooth": "2022-01-10 18:53:38 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/summon_iron_golem": {
     "criteria": {
       "summoned_golem": "2022-01-07 00:19:13 -0600"
@@ -190,11 +294,23 @@
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "minecolonies:production/deep_mine": {
     "criteria": {
-      "crafting_table": "2022-01-06 19:31:23 -0600"
+      "mineshaft": "2022-01-13 13:46:30 -0600"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "canopy_sapling": "2022-01-12 22:04:51 -0600"
+    },
+    "done": false
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_catalyst": "2022-01-11 01:57:34 -0600"
+    },
+    "done": false
   },
   "tombstone:adventure/first_grave": {
     "criteria": {
@@ -208,33 +324,27 @@
     },
     "done": true
   },
-  "minecolonies:production/post_and_stash": {
+  "tconstruct:smeltery/puny_smelting": {
     "criteria": {
-      "stash": "2022-01-08 02:11:19 -0600"
-    },
-    "done": false
-  },
-  "artifacts:amateur_archaeologist": {
-    "criteria": {
-      "find_artifact": "2022-01-06 18:50:50 -0600"
+      "crafted_book": "2022-01-14 14:20:13 -0600"
     },
     "done": true
   },
-  "woot:main/root": {
+  "corail_woodcutter:recipes/from_jungle_planks": {
     "criteria": {
-      "killed_something": "2022-01-06 19:41:20 -0600"
+      "has_ingredient": "2022-01-10 14:31:33 -0600"
     },
     "done": true
   },
-  "silentgear:root": {
+  "minecolonies:production/build_farmer": {
     "criteria": {
-      "get_item": "2022-01-06 19:31:25 -0600"
+      "farmers_hut": "2022-01-11 19:53:29 -0600"
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "twilightforest:alt/entities/hostile_wolf": {
     "criteria": {
-      "always": "2022-01-06 18:42:52 -0600"
+      "hurt": "2022-01-12 22:10:39 -0600"
     },
     "done": true
   },
@@ -244,21 +354,9 @@
     },
     "done": true
   },
-  "naturesaura:positive_imbalance": {
+  "tombstone:adventure/find_lost_tablet_exploration": {
     "criteria": {
-      "triggered_in_code": "2022-01-07 23:19:49 -0600"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2022-01-06 18:42:52 -0600"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2022-01-06 19:41:20 -0600"
+      "coded_trigger": "2022-01-12 15:02:57 -0600"
     },
     "done": true
   },
@@ -280,20 +378,37 @@
     },
     "done": true
   },
-  "tombstone:recipes/from_grave_dust": {
+  "twilightforest:alt/biomes/oak_savannah": {
     "criteria": {
-      "has_ingredient": "2022-01-07 23:09:07 -0600"
+      "discover": "2022-01-12 22:07:35 -0600"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2022-01-13 14:04:08 -0600",
+      "shrubland": "2022-01-13 14:32:06 -0600",
+      "scrubland": "2022-01-10 14:17:34 -0600",
+      "wetland_forest": "2022-01-13 17:48:34 -0600",
+      "redwood_forest_edge": "2022-01-13 14:07:35 -0600",
+      "highland": "2022-01-13 14:35:29 -0600",
+      "tundra_basin": "2022-01-13 14:03:58 -0600",
       "grove_clearing": "2022-01-06 21:53:31 -0600",
+      "meadow_forest": "2022-01-14 15:19:49 -0600",
       "cold_desert": "2022-01-06 18:46:07 -0600",
+      "wooded_scrubland": "2022-01-10 14:12:56 -0600",
+      "tundra_bog": "2022-01-18 22:57:49 -0600",
+      "rainforest_floodplain": "2022-01-10 14:29:44 -0600",
+      "lavender_forest": "2022-01-16 21:19:20 -0600",
       "alps": "2022-01-07 22:39:01 -0600",
+      "dry_boneyard": "2022-01-11 21:57:02 -0600",
+      "seasonal_orchard": "2022-01-12 16:08:07 -0600",
       "highland_moor": "2022-01-09 02:11:19 -0600",
+      "golden_prairie": "2022-01-13 14:33:57 -0600",
       "grassland": "2022-01-07 00:26:11 -0600",
-      "snowy_coniferous_forest": "2022-01-07 22:39:45 -0600"
+      "snowy_coniferous_forest": "2022-01-07 22:39:45 -0600",
+      "rainforest": "2022-01-14 14:34:08 -0600",
+      "ominous_woods": "2022-01-18 22:58:49 -0600"
     },
     "done": false
   },
@@ -303,17 +418,29 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "minecolonies:military/build_barracks": {
     "criteria": {
-      "minecraft:cold_ocean": "2022-01-06 18:55:27 -0600",
-      "minecraft:snowy_tundra": "2022-01-07 23:11:02 -0600",
-      "minecraft:birch_forest": "2022-01-08 00:39:49 -0600",
-      "minecraft:dark_forest": "2022-01-07 00:25:34 -0600",
-      "minecraft:river": "2022-01-09 02:11:15 -0600",
-      "minecraft:snowy_taiga": "2022-01-06 18:51:20 -0600",
-      "minecraft:savanna": "2022-01-06 18:42:52 -0600"
+      "guard_tower": "2022-01-13 22:42:11 -0600"
     },
-    "done": false
+    "done": true
+  },
+  "minecolonies:production/max_fields": {
+    "criteria": {
+      "fields": "2022-01-20 23:53:48 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_50": {
+    "criteria": {
+      "population_5": "2022-01-16 19:31:21 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2022-01-19 18:57:23 -0600"
+    },
+    "done": true
   },
   "tombstone:adventure/strong_or_careful": {
     "criteria": {
@@ -333,15 +460,15 @@
     },
     "done": true
   },
-  "simplemagnets:recipes/search/basic_magnet": {
+  "elementalcraft:pickup/powerful_air_shard": {
     "criteria": {
-      "iron": "2022-01-06 19:27:06 -0600"
+      "has_powerful_air_shard": "2022-01-10 14:25:57 -0600"
     },
     "done": true
   },
-  "minecolonies:production/build_cook": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "sawmill": "2022-01-08 02:34:04 -0600"
+      "lava_bucket": "2022-01-12 21:59:09 -0600"
     },
     "done": true
   },
@@ -351,21 +478,9 @@
     },
     "done": true
   },
-  "minecolonies:minecolonies/colony_population_5": {
+  "twilightforest:alt/entities/hedge_spider": {
     "criteria": {
-      "population_5": "2022-01-06 18:50:42 -0600"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2022-01-08 02:52:46 -0600"
-    },
-    "done": true
-  },
-  "simplemagnets:recipes/search/basic_demagnetization_coil": {
-    "criteria": {
-      "iron": "2022-01-06 19:27:06 -0600"
+      "hurt_by_indirect": "2022-01-12 22:12:19 -0600"
     },
     "done": true
   },
@@ -375,21 +490,22 @@
     },
     "done": true
   },
-  "trashcans:recipes/search/liquid_trash_can": {
+  "tconstruct:world/slime_collector": {
     "criteria": {
-      "bucket": "2022-01-07 00:17:42 -0600"
+      "magma_cream": "2022-01-10 16:47:19 -0600",
+      "earth": "2022-01-10 18:02:50 -0600"
+    },
+    "done": false
+  },
+  "silentgear:nether": {
+    "criteria": {
+      "entered_nether": "2022-01-10 16:22:21 -0600"
     },
     "done": true
   },
-  "minecolonies:military/root": {
+  "tconstruct:tools/make_part": {
     "criteria": {
-      "guardtower": "2022-01-07 22:06:06 -0600"
-    },
-    "done": true
-  },
-  "mana-and-artifice:mine_vinteum": {
-    "criteria": {
-      "get_vinteum": "2022-01-08 00:02:42 -0600"
+      "crafted_part": "2022-01-13 16:13:49 -0600"
     },
     "done": true
   },
@@ -399,20 +515,22 @@
     },
     "done": true
   },
+  "minecolonies:military/build_archery": {
+    "criteria": {
+      "guard_tower": "2022-01-18 22:33:58 -0600"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-01-06 19:41:20 -0600"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2022-01-09 02:34:08 -0600"
-    },
-    "done": true
-  },
   "repurposed_structures:mineshafts": {
     "criteria": {
+      "in_mineshaft_ocean": "2022-01-10 18:52:57 -0600",
+      "in_mineshaft_desert": "2022-01-10 15:02:43 -0600",
       "in_mineshaft_icy": "2022-01-08 19:58:38 -0600"
     },
     "done": false
@@ -423,23 +541,25 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2022-01-10 16:23:28 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:affix/uncommon": {
+    "criteria": {
+      "sword": "2022-01-12 00:59:58 -0600"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
-      "opened_chest": "2022-01-07 22:31:49 -0600"
+      "opened_barrel": "2022-01-10 15:10:50 -0600",
+      "opened_chest": "2022-01-07 22:31:49 -0600",
+      "opened_cart": "2022-01-12 20:59:16 -0600"
     },
     "done": false
-  },
-  "mana-and-artifice:root": {
-    "criteria": {
-      "get_vinteum": "2022-01-08 00:02:42 -0600"
-    },
-    "done": true
-  },
-  "elementalcraft:pickup/inertcrystal": {
-    "criteria": {
-      "has_inertcrystal": "2022-01-08 00:09:08 -0600"
-    },
-    "done": true
   },
   "minecolonies:minecolonies/start_builder": {
     "criteria": {
@@ -459,9 +579,9 @@
     },
     "done": true
   },
-  "tconstruct:tools/tinker_tool": {
+  "tombstone:adventure/village_defender": {
     "criteria": {
-      "crafted_tool": "2022-01-06 18:50:24 -0600"
+      "coded_trigger": "2022-01-11 22:20:26 -0600"
     },
     "done": true
   },
@@ -469,17 +589,44 @@
     "criteria": {
       "minecraft:pillager": "2022-01-06 23:50:09 -0600",
       "minecraft:skeleton": "2022-01-06 19:41:20 -0600",
+      "minecraft:ravager": "2022-01-14 22:13:48 -0600",
+      "minecraft:vindicator": "2022-01-14 22:10:52 -0600",
+      "minecraft:magma_cube": "2022-01-10 16:22:48 -0600",
       "minecraft:spider": "2022-01-08 01:19:03 -0600",
+      "upgrade_aquatic:thrasher": "2022-01-10 18:53:38 -0600",
       "minecraft:creeper": "2022-01-06 23:30:13 -0600",
+      "minecraft:slime": "2022-01-10 18:02:20 -0600",
+      "minecraft:evoker": "2022-01-14 22:17:19 -0600",
       "minecraft:witch": "2022-01-09 01:51:03 -0600",
+      "minecraft:wither_skeleton": "2022-01-13 20:20:55 -0600",
+      "minecraft:husk": "2022-01-11 23:00:54 -0600",
+      "minecraft:shulker": "2022-01-14 15:58:06 -0600",
+      "minecraft:cave_spider": "2022-01-13 20:11:21 -0600",
       "minecraft:stray": "2022-01-07 23:09:07 -0600",
-      "minecraft:zombie": "2022-01-06 23:29:17 -0600"
+      "minecraft:enderman": "2022-01-10 14:50:20 -0600",
+      "minecraft:silverfish": "2022-01-13 20:11:12 -0600",
+      "minecraft:endermite": "2022-01-14 16:08:50 -0600",
+      "minecraft:vex": "2022-01-14 22:17:46 -0600",
+      "minecraft:zombie": "2022-01-06 23:29:17 -0600",
+      "minecraft:drowned": "2022-01-11 23:07:11 -0600"
     },
     "done": false
   },
   "corail_woodcutter:recipes/from_spruce_planks": {
     "criteria": {
       "has_ingredient": "2022-01-06 19:35:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2022-01-10 16:22:21 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:world/blood_island": {
+    "criteria": {
+      "found_island": "2022-01-11 02:03:42 -0600"
     },
     "done": true
   },
@@ -491,17 +638,24 @@
   },
   "minecolonies:production/build_all_herders": {
     "criteria": {
+      "chickens": "2022-01-10 13:54:20 -0600",
       "cows": "2022-01-09 02:09:47 -0600",
+      "rabbits": "2022-01-11 23:56:45 -0600",
       "sheep": "2022-01-09 00:38:19 -0600"
     },
     "done": false
   },
-  "tconstruct:tools/material_master": {
+  "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
-      "slimewood": "2022-01-06 18:50:24 -0600",
-      "slimesteel": "2022-01-06 18:50:24 -0600"
+      "kill_pillager": "2022-01-14 22:12:29 -0600"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2022-01-13 19:09:27 -0600"
+    },
+    "done": true
   },
   "minecolonies:minecolonies/check_out_guide": {
     "criteria": {
@@ -515,15 +669,9 @@
     },
     "done": true
   },
-  "elementalcraft:pickup/earth_shard": {
+  "resourcefulbees:resourcefulbees/collect_bee": {
     "criteria": {
-      "has_earth_shard": "2022-01-07 23:50:20 -0600"
-    },
-    "done": true
-  },
-  "corail_woodcutter:recipes/from_birch_planks": {
-    "criteria": {
-      "has_ingredient": "2022-01-08 02:00:56 -0600"
+      "collect_bee": "2022-01-18 22:00:28 -0600"
     },
     "done": true
   },
@@ -539,6 +687,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2022-01-10 15:10:25 -0600"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2022-01-08 00:30:53 -0600"
@@ -551,21 +705,21 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "hostile_wolf": "2022-01-12 22:10:41 -0600"
+    },
+    "done": true
+  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "pickaxe": "2022-01-06 18:50:24 -0600"
     },
     "done": false
   },
-  "minecolonies:production/build_delivery_person": {
+  "minecolonies:minecolonies/colony_population_25": {
     "criteria": {
-      "delivery_person": "2022-01-07 00:19:08 -0600"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2022-01-06 19:27:06 -0600"
+      "population_5": "2022-01-13 01:22:40 -0600"
     },
     "done": true
   },
@@ -578,6 +732,683 @@
   "minecolonies:minecolonies/build_builder": {
     "criteria": {
       "builders_hut": "2022-01-06 19:00:10 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2022-01-14 15:23:17 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold_betterstrongholds": "2022-01-14 15:22:06 -0600"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2022-01-10 15:10:50 -0600"
+    },
+    "done": true
+  },
+  "silentgear:the_end": {
+    "criteria": {
+      "entered_the_end": "2022-01-14 15:28:04 -0600"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charged_quartz": {
+    "criteria": {
+      "certus": "2022-01-22 17:31:14 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_stone_smeltery": {
+    "criteria": {
+      "smeltery": "2022-01-15 16:59:50 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:shipwrecks": {
+    "criteria": {
+      "in_shipwreck_end": "2022-01-21 01:18:46 -0600"
+    },
+    "done": false
+  },
+  "tconstruct:smeltery/mighty_smelting": {
+    "criteria": {
+      "crafted_book": "2022-01-14 14:20:45 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:military/build_combat_academy": {
+    "criteria": {
+      "guard_tower": "2022-01-17 20:03:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2022-01-14 15:28:04 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/building_add_recipe_torch": {
+    "criteria": {
+      "add_recipe_torch": "2022-01-06 23:12:14 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_badlands": "2022-01-10 15:00:30 -0600"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2022-01-08 23:12:23 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_blacksmith": {
+    "criteria": {
+      "smeltery": "2022-01-13 13:57:35 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/colony_population_10": {
+    "criteria": {
+      "population_5": "2022-01-08 03:49:33 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-01-10 16:42:41 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_stonemason": {
+    "criteria": {
+      "stonemason": "2022-01-13 17:22:46 -0600"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_water_shard": {
+    "criteria": {
+      "has_powerful_water_shard": "2022-01-13 01:50:52 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2022-01-12 15:01:27 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "game_start": "2022-01-06 18:42:52 -0600"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2022-01-08 19:43:52 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:world/ender_island": {
+    "criteria": {
+      "found_island": "2022-01-14 16:02:52 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2022-01-11 23:00:55 -0600"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_dark_oak_planks": {
+    "criteria": {
+      "has_ingredient": "2022-01-09 00:49:24 -0600"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_fir_planks": {
+    "criteria": {
+      "has_ingredient": "2022-01-12 03:46:29 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_composter": {
+    "criteria": {
+      "sawmill": "2022-01-13 22:35:29 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2022-01-18 17:06:34 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:spawner/capturing": {
+    "criteria": {
+      "egg": "2022-01-11 21:55:59 -0600"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/item_trash_can": {
+    "criteria": {
+      "chest": "2022-01-11 19:43:58 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/root": {
+    "criteria": {
+      "auto": "2022-01-06 18:42:52 -0600"
+    },
+    "done": true
+  },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2022-01-08 19:43:52 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_warehouse": {
+    "criteria": {
+      "warehouse": "2022-01-16 16:45:33 -0600"
+    },
+    "done": true
+  },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2022-01-09 03:44:00 -0600"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/bee_jar": {
+    "criteria": {
+      "bee_jar": "2022-01-18 22:00:27 -0600"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "cold_desert": "2022-01-06 18:46:07 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2022-01-12 22:01:11 -0600"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/root": {
+    "criteria": {
+      "inventory_changed": "2022-01-06 18:42:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2022-01-07 23:59:45 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2022-01-12 22:10:30 -0600"
+    },
+    "done": true
+  },
+  "resourcefulbees:resourcefulbees/obtain_bee_nest": {
+    "criteria": {
+      "obtain_bee_nest": "2022-01-11 03:42:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2022-01-06 19:31:23 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2022-01-12 22:07:08 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/post_and_stash": {
+    "criteria": {
+      "postbox": "2022-01-18 03:36:39 -0600",
+      "stash": "2022-01-08 02:11:19 -0600"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2022-01-06 18:50:50 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_library": {
+    "criteria": {
+      "warehouse": "2022-01-12 02:15:46 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/build_mysticalsite": {
+    "criteria": {
+      "warehouse": "2022-01-22 20:33:24 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_lumberjack": {
+    "criteria": {
+      "lumberjacks_hut": "2022-01-10 00:04:01 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2022-01-10 15:26:31 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2022-01-14 15:57:30 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hollow_hills": {
+    "criteria": {
+      "2": "2022-01-12 22:08:16 -0600"
+    },
+    "done": true
+  },
+  "woot:main/root": {
+    "criteria": {
+      "killed_something": "2022-01-06 19:41:20 -0600"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2022-01-06 19:31:25 -0600"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2022-01-06 18:42:52 -0600"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2022-01-12 21:00:06 -0600"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2022-01-14 15:52:42 -0600"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2022-01-07 23:19:49 -0600"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass_cracked_stone_bricks": {
+    "criteria": {
+      "has_cracked_stone_bricks": "2022-01-13 19:56:46 -0600"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2022-01-06 18:42:52 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2022-01-06 19:41:20 -0600"
+    },
+    "done": true
+  },
+  "mana-and-artifice:smelt_vinteum": {
+    "criteria": {
+      "get_vinteum_dust": "2022-01-09 23:35:28 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:affix/common": {
+    "criteria": {
+      "sword": "2022-01-10 18:10:14 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "0": "2022-01-12 22:12:19 -0600"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2022-01-07 23:09:07 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2022-01-11 22:21:56 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_fisherman": {
+    "criteria": {
+      "sawmill": "2022-01-10 13:44:25 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_sawmill": {
+    "criteria": {
+      "sawmill": "2022-01-14 01:14:51 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2022-01-06 18:55:27 -0600",
+      "minecraft:badlands_plateau": "2022-01-10 15:01:10 -0600",
+      "minecraft:forest": "2022-01-12 16:08:17 -0600",
+      "minecraft:giant_tree_taiga": "2022-01-13 17:31:40 -0600",
+      "minecraft:deep_cold_ocean": "2022-01-11 03:39:21 -0600",
+      "minecraft:snowy_tundra": "2022-01-07 23:11:02 -0600",
+      "minecraft:desert": "2022-01-12 15:25:50 -0600",
+      "minecraft:frozen_river": "2022-01-18 16:21:58 -0600",
+      "minecraft:deep_frozen_ocean": "2022-01-10 18:51:38 -0600",
+      "minecraft:birch_forest": "2022-01-08 00:39:49 -0600",
+      "minecraft:snowy_beach": "2022-01-18 16:21:02 -0600",
+      "minecraft:warm_ocean": "2022-01-12 15:24:51 -0600",
+      "minecraft:badlands": "2022-01-10 15:00:30 -0600",
+      "minecraft:dark_forest": "2022-01-07 00:25:34 -0600",
+      "minecraft:river": "2022-01-09 02:11:15 -0600",
+      "minecraft:snowy_taiga": "2022-01-06 18:51:20 -0600",
+      "minecraft:stone_shore": "2022-01-10 18:51:09 -0600",
+      "minecraft:savanna": "2022-01-06 18:42:52 -0600"
+    },
+    "done": false
+  },
+  "tombstone:adventure/almost_unkillable": {
+    "criteria": {
+      "coded_trigger": "2022-01-10 18:54:06 -0600"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_magnet": {
+    "criteria": {
+      "iron": "2022-01-06 19:27:06 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_cook": {
+    "criteria": {
+      "sawmill": "2022-01-08 02:34:04 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_snowy": "2022-01-18 16:57:38 -0600"
+    },
+    "done": false
+  },
+  "minecolonies:minecolonies/colony_population_5": {
+    "criteria": {
+      "population_5": "2022-01-06 18:50:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-01-14 16:06:34 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2022-01-08 02:52:46 -0600"
+    },
+    "done": true
+  },
+  "simplemagnets:recipes/search/basic_demagnetization_coil": {
+    "criteria": {
+      "iron": "2022-01-06 19:27:06 -0600"
+    },
+    "done": true
+  },
+  "trashcans:recipes/search/liquid_trash_can": {
+    "criteria": {
+      "bucket": "2022-01-07 00:17:42 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:ruins": {
+    "criteria": {
+      "in_ruins_nether": "2022-01-10 16:45:07 -0600",
+      "in_ruins_land_warm": "2022-01-17 21:56:47 -0600",
+      "in_ruins_land_hot": "2022-01-10 15:03:43 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:military/root": {
+    "criteria": {
+      "guardtower": "2022-01-07 22:06:06 -0600"
+    },
+    "done": true
+  },
+  "mana-and-artifice:mine_vinteum": {
+    "criteria": {
+      "get_vinteum": "2022-01-08 00:02:42 -0600"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2022-01-09 02:34:08 -0600"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2022-01-10 15:12:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2022-01-11 02:26:15 -0600"
+    },
+    "done": true
+  },
+  "explorerscompass:explorers_compass": {
+    "criteria": {
+      "has_compass": "2022-01-21 22:41:43 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2022-01-11 22:21:57 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:military/army_8": {
+    "criteria": {
+      "population_5": "2022-01-16 18:28:37 -0600"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/root": {
+    "criteria": {
+      "certus": "2022-01-13 03:09:35 -0600"
+    },
+    "done": true
+  },
+  "mana-and-artifice:root": {
+    "criteria": {
+      "get_vinteum": "2022-01-08 00:02:42 -0600"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/inertcrystal": {
+    "criteria": {
+      "has_inertcrystal": "2022-01-08 00:09:08 -0600"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/powerful_earth_shard": {
+    "criteria": {
+      "has_powerful_earth_shard": "2022-01-10 15:39:36 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2022-01-06 18:50:24 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2022-01-14 15:28:04 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:minecolonies/citizen_bury": {
+    "criteria": {
+      "citizens_hut": "2022-01-20 21:00:56 -0600"
+    },
+    "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "slimewood": "2022-01-06 18:50:24 -0600",
+      "slimesteel": "2022-01-06 18:50:24 -0600",
+      "queens_slime": "2022-01-13 16:14:08 -0600"
+    },
+    "done": false
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2022-01-11 19:40:44 -0600"
+    },
+    "done": true
+  },
+  "refinedstorage:no_cables_required": {
+    "criteria": {
+      "network_transmitter_receiver_card_in_inventory": "2022-01-16 17:25:10 -0600"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2022-01-11 02:23:52 -0600",
+      "minecraft:warped_forest": "2022-01-10 16:22:33 -0600"
+    },
+    "done": false
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2022-01-13 17:38:05 -0600"
+    },
+    "done": false
+  },
+  "elementalcraft:pickup/earth_shard": {
+    "criteria": {
+      "has_earth_shard": "2022-01-07 23:50:20 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_florist": {
+    "criteria": {
+      "florist": "2022-01-19 18:48:45 -0600"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2022-01-08 02:00:56 -0600"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2022-01-14 15:23:45 -0600"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_warped_planks": {
+    "criteria": {
+      "has_ingredient": "2022-01-10 16:35:19 -0600"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2022-01-10 17:28:29 -0600"
+    },
+    "done": true
+  },
+  "minecolonies:production/build_delivery_person": {
+    "criteria": {
+      "delivery_person": "2022-01-07 00:19:08 -0600"
+    },
+    "done": true
+  },
+  "repurposed_structures:fortress_jungle": {
+    "criteria": {
+      "in_jungle_fortress": "2022-01-10 14:24:59 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2022-01-12 22:04:58 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2022-01-12 22:28:46 -0600"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2022-01-06 19:27:06 -0600"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2022-01-14 14:55:29 -0600"
     },
     "done": true
   },
